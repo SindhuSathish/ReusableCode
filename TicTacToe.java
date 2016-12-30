@@ -1,6 +1,6 @@
 // filename: TicTacToe.java
 //
-// This program plays the game of Tic-Tac-Toe with the user.
+// This java program plays the game of Tic-Tac-Toe with the user.
 
 import java.util.Scanner;
 
