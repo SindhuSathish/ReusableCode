@@ -1,6 +1,6 @@
 /**
 
-Create a clob object to be passed for DB.
+Class to create a clob object to be passed for DB.
 Sample clob requirements
 CLOB : id(9) name (15) dob (10)
 
