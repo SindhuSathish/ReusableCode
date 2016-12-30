@@ -156,7 +156,7 @@ body .reset:hover {
 <body>
 
 <h1>
-  Very simple jQuery Tic Tac Toe
+ TIC TAC TOE
 </h1>
 <div class="messages"></div>
 <div class="turn"></div>
